@@ -241,11 +241,11 @@ Mappings for:
 | 9.1       | [OK] [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |
 | 9.2 | [OK] [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |
 | 9.3 | [OK] [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
-| 9.4 | [COMPUTE THE LCA WHEN NODES HAVE PARENT POINTERS] |
-| 9.5 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |
-| 9.6 | [112. Path Sum](https://leetcode.com/problems/path-sum/) |
-| 9.7 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) note: solve without recursion |
-| 9.8 | [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) note: solve without recursion |
+| 9.4 | [OK] COMPUTE THE LCA WHEN NODES HAVE PARENT POINTERS |
+| 9.5 | [OK] [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |
+| 9.6 | [OK] [112. Path Sum](https://leetcode.com/problems/path-sum/) |
+| 9.7 | [OK] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) note: solve without recursion |
+| 9.8 | [OK] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) note: solve without recursion |
 | 9.9 | []() |
 | 9.10 | []() |
 | 9.11 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) note: solve with constant space |
