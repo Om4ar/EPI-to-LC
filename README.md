@@ -238,7 +238,7 @@ Mappings for:
 # Binary Trees
 | Problem | LeetCode |
 |---------|----------|
-| 9.1       | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |
+| 9.1       | [OK] [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |
 | 9.2 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |
 | 9.3 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
 | 9.4 | []() |
