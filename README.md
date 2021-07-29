@@ -247,7 +247,7 @@ Mappings for:
 | 9.7 | [OK] [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) note: solve without recursion |
 | 9.8 | [OK] [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) note: solve without recursion |
 | 9.9 | [NOT OK] COMPUTE THE km NODE IN AN INORDER TRAVERSAL |
-| 9.10 | [NOT OK] COMPUTE THE SUCCESSOR |
+| 9.10 | [OK] COMPUTE THE SUCCESSOR |
 | 9.11 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) note: solve with constant space |
 | 9.12 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |
 | 9.13 | [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) |
