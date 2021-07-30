@@ -253,7 +253,7 @@ Mappings for:
 | 9.13 | [OK] [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) |
 | 9.14 | [OK] FORM A LINKED LIST FROM THE LEAVES OF A BINARY TREE |
 | 9.15 | [OK] [545. Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree) |
-| 9.16 | []() |
+| 9.16 | [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |
 
 # Heaps
 
