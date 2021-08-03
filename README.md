@@ -264,7 +264,8 @@ Mappings for:
 | 10.3 | [OK] [SORT AN ALMOST-SORTED ARRAY]() |
 | 10.4 | [OK] [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) |
 | 10.5 | [OK] [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |
-| 10.6 | []() |
+| 10.6 | [COMPUTE THE k LARGEST ELEMENTS IN A MAX-HEAP]() |
+| 10.7 | [IMPLEMENT A STACK API USING A HEAP]() |
 
 # Searching
 
