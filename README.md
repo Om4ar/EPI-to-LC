@@ -259,11 +259,11 @@ Mappings for:
 
 | Problem | LeetCode |
 |---------|----------|
-| 10.1       | []() |
-| 10.2 | []() |
-| 10.3 | []() |
-| 10.4 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) |
-| 10.5 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |
+| 10.1 | [OK] [MERGE SORTED FILES]() |
+| 10.2 | [OK] [SORT AN INCREASING-DECREASING ARRAY]() |
+| 10.3 | [OK] [SORT AN ALMOST-SORTED ARRAY]() |
+| 10.4 | [OK] [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) |
+| 10.5 | [OK] [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |
 | 10.6 | []() |
 
 # Searching
