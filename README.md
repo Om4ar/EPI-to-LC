@@ -290,7 +290,7 @@ Mappings for:
 | 12.2 | [OK]  [383. Ransom Note](https://leetcode.com/problems/ransom-note/) |
 | 12.3 | []() |
 | 12.4 | []() |
-| 12.5 | []() |
+| 12.5 | [OK] [COMPUTE THE k MOST FREQUENT QUERIES](https://leetcode.com/problems/top-k-frequent-words/) |
 | 12.6 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) note: strings instead of arrays |
 | 12.7 | [727. Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence) note: strings instead of arrays |
 | 12.8 | []() |
