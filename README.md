@@ -286,7 +286,7 @@ Mappings for:
 
 | Problem | LeetCode |
 |---------|----------|
-| 12.1       | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation) |
+| 12.1 [OK] | [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation) |
 | 12.2 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) |
 | 12.3 | []() |
 | 12.4 | []() |
