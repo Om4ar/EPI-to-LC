@@ -297,7 +297,7 @@ Mappings for:
 | 12.9 | [OK] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 12.10 | []() |
 | 12.11 | [OK] [1COMPUTE THE AVERAGE OF THE TOP THREE SCORES]() |
-| 12.12 | []() |
+| 12.12 | [OK] [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) |
 
 # Sorting
 
