@@ -296,7 +296,7 @@ Mappings for:
 | 12.8 | []() |
 | 12.9 | []() |
 | 12.10 | []() |
-| 12.11 | []() |
+| 12.11 | [OK] [1COMPUTE THE AVERAGE OF THE TOP THREE SCORES]() |
 | 12.12 | []() |
 
 # Sorting
