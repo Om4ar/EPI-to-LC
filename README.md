@@ -291,9 +291,9 @@ Mappings for:
 | 12.3 | []() |
 | 12.4 | []() |
 | 12.5 | [OK] [COMPUTE THE k MOST FREQUENT QUERIES](https://leetcode.com/problems/top-k-frequent-words/) |
-| 12.6 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) note: strings instead of arrays |
-| 12.7 | [727. Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence) note: strings instead of arrays |
-| 12.8 | []() |
+| 12.6 | []() |
+| 12.7 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) note: strings instead of arrays |
+| 12.8 | [727. Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence) note: strings instead of arrays |
 | 12.9 | [OK] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 12.10 | []() |
 | 12.11 | [OK] [1COMPUTE THE AVERAGE OF THE TOP THREE SCORES]() |
