@@ -273,7 +273,7 @@ Mappings for:
 |---------|----------|
 | 11.1 | [OK] [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 | 11.2 | [OK] [1064. Fixed Point](https://leetcode.com/problems/fixed-point/) |
-| 11.3 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
+| 11.3 | [OK] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
 | 11.4 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) |
 | 11.5 | []() |
 | 11.6 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) |
