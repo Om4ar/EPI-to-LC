@@ -277,7 +277,7 @@ Mappings for:
 | 11.4 | [OK] [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) |
 | 11.5 | []() |
 | 11.6 | [OK] [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) |
-| 11.7 | []() |
+| 11.7 | [OK] [FIND THE MIN AND MAX SIMULTANEOUSLY]() |
 | 11.8 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
 | 11.9 | []() |
 | 11.10 | []() |
