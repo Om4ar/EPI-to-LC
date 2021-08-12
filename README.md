@@ -271,8 +271,8 @@ Mappings for:
 
 | Problem | LeetCode |
 |---------|----------|
-| 11.1       | []() |
-| 11.2 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+| 11.1 | [OK] [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+| 11.2 | [OK] [1064. Fixed Point](https://leetcode.com/problems/fixed-point/) |
 | 11.3 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
 | 11.4 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) |
 | 11.5 | []() |
