@@ -274,9 +274,9 @@ Mappings for:
 | 11.1 | [OK] [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 | 11.2 | [OK] [1064. Fixed Point](https://leetcode.com/problems/fixed-point/) |
 | 11.3 | [OK] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
-| 11.4 | [ok] [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) |
+| 11.4 | [OK] [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) |
 | 11.5 | []() |
-| 11.6 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) |
+| 11.6 | [OK] [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) |
 | 11.7 | []() |
 | 11.8 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |
 | 11.9 | []() |
