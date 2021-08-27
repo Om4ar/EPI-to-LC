@@ -321,7 +321,7 @@ Mappings for:
 | Problem | LeetCode |
 |---------|----------|
 | 14.1 | [OK] [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |
-| 14.2 | [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst) |
+| 14.2 | [OK] [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst) |
 | 14.3 | []() |
 | 14.4 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
 | 14.5 | []() |
